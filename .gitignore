@@ -173,3 +173,5 @@ tags
 
 # End of https://www.toptal.com/developers/gitignore/api/node,macos,visualstudiocode,vim
 .terraform*
+terraform.tfstate.backup
+terraform.tfstate
